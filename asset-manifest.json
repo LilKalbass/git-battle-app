@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/git-battle-app/static/css/main.2d957e1b.css",
-    "main.js": "/git-battle-app/static/js/main.6342a7fb.js",
+    "main.js": "/git-battle-app/static/js/main.f3c5053a.js",
     "static/js/787.c81b91d2.chunk.js": "/git-battle-app/static/js/787.c81b91d2.chunk.js",
     "index.html": "/git-battle-app/index.html",
     "main.2d957e1b.css.map": "/git-battle-app/static/css/main.2d957e1b.css.map",
-    "main.6342a7fb.js.map": "/git-battle-app/static/js/main.6342a7fb.js.map",
+    "main.f3c5053a.js.map": "/git-battle-app/static/js/main.f3c5053a.js.map",
     "787.c81b91d2.chunk.js.map": "/git-battle-app/static/js/787.c81b91d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d957e1b.css",
-    "static/js/main.6342a7fb.js"
+    "static/js/main.f3c5053a.js"
   ]
 }
