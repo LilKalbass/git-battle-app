@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yoga-landing/static/css/main.2d957e1b.css",
+    "main.js": "/yoga-landing/static/js/main.7eadf492.js",
+    "static/js/787.c81b91d2.chunk.js": "/yoga-landing/static/js/787.c81b91d2.chunk.js",
+    "index.html": "/yoga-landing/index.html",
+    "main.2d957e1b.css.map": "/yoga-landing/static/css/main.2d957e1b.css.map",
+    "main.7eadf492.js.map": "/yoga-landing/static/js/main.7eadf492.js.map",
+    "787.c81b91d2.chunk.js.map": "/yoga-landing/static/js/787.c81b91d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d957e1b.css",
+    "static/js/main.7eadf492.js"
+  ]
+}
