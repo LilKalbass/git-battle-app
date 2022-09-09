@@ -10,18 +10,17 @@ class App extends React.Component {
     render() {
         return (
             <div className='container'>
-
                 <Routes>
                     <Route path='/' element={<Nav/>}>
                         <Route index path='git-battle-app/' element={<Home/>}/>
-                        <Route path='battle' element={<Battle/>}/>
-                        <Route path='popular' element={<Popular/>}/>
-                        <Route path='battle/results' element={<Result/>}/>
+                        <Route path='/battle' element={<Battle/>}/>
+                        <Route path='/popular' element={<Popular/>}/>
+                        <Route path='/battle/results' element={<Result/>}/>
                     </Route>
                 </Routes>
             </div>
         )
     }
 }
-
+//qwe
 export default App;
