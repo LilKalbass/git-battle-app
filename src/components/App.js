@@ -10,7 +10,6 @@ class App extends React.Component {
     render() {
         return (
             <div className='container'>
-
                 <Routes>
                     <Route path='/' element={<Nav/>}>
                         <Route index path='git-battle-app/' element={<Home/>}/>
@@ -23,5 +22,5 @@ class App extends React.Component {
         )
     }
 }
-
+//qwe
 export default App;
