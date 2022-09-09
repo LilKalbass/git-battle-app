@@ -12,7 +12,7 @@ class App extends React.Component {
             <div className='container'>
 
                 <Routes>
-                    <Route path='git-battle-app/' element={<Nav/>}>
+                    <Route path='/' element={<Nav/>}>
                         <Route index path='git-battle-app/' element={<Home/>}/>
                         <Route path='battle' element={<Battle/>}/>
                         <Route path='popular' element={<Popular/>}/>
