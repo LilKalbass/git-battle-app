@@ -1,1 +1,1 @@
-https://Lilkalbass.github.io/yoga-landing
+https://Lilkalbass.github.io/git-battle-app
